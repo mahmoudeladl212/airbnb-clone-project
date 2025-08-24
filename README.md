@@ -54,5 +54,41 @@ Data Encryption: HTTPS / SSL to protect sensitive info.
 Rate Limiting: Prevent brute force and DDoS attacks.
 
 Input Validation & Sanitization: Prevent SQL injection / XSS.
+## CI/CD Pipeline
+ocument:
+
+What CI/CD is: Continuous Integration ensures code is tested and validated automatically before merging. Continuous Delivery automates deployment.
+
+Why important: Reduces human errors, speeds up development, ensures consistent deployments.
+
+Tools: GitHub Actions (to run tests on every push and PR), Docker (for containerized builds), possibly Kubernetes (for scalable hosting).
+
+Commit and push.
+
+✅ Deliverable: README.md updated with CI/CD Pipeline section.
+
+Step 7: Manual Review & Submission
+Verify the following in your GitHub repo:
+
+The repo name is exactly: airbnb-clone-project
+
+File exists: README.md
+
+All required sections are included:
+
+Project Overview
+
+Team Roles
+
+Technology Stack
+
+Database Design
+
+Feature Breakdown
+
+API Security
+
+CI/CD Pipeline
+
 
 
