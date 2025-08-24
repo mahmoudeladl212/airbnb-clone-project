@@ -42,3 +42,17 @@ Reviews and Ratings: Guests can leave feedback on properties.
 Payments: Secure system for booking payment confirmation.
 
 Search & Filter: Browse properties by date, location, and price.
+## API Security
+Document measures:
+
+Authentication: Secure login with JWT/OAuth2.
+
+Authorization: Role-based access (e.g., host vs guest).
+
+Data Encryption: HTTPS / SSL to protect sensitive info.
+
+Rate Limiting: Prevent brute force and DDoS attacks.
+
+Input Validation & Sanitization: Prevent SQL injection / XSS.
+
+
