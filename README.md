@@ -30,3 +30,15 @@ A User can make multiple Bookings.
 A Property can have many Reviews.
 
 A Booking is linked to one Payment.
+## Feature Breakdown
+User Management: Sign-up, login, profile management, authorization.
+
+Property Management: Host can list, edit, or delete their properties.
+
+Booking System: Users can search, book properties, and manage reservations.
+
+Reviews and Ratings: Guests can leave feedback on properties.
+
+Payments: Secure system for booking payment confirmation.
+
+Search & Filter: Browse properties by date, location, and price.
